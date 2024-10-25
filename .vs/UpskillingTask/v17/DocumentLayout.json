@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\UpskillingTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|f:\\upskillingtask\\upskillingtask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|solutionrelative:upskillingtask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|f:\\upskillingtask\\upskillingtask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|solutionrelative:upskillingtask\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UpskillingTask\\UpskillingTask\\Migrations\\20241025141645_orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UpskillingTask\\Migrations\\20241025141645_orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|f:\\upskillingtask\\upskillingtask\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|solutionrelative:upskillingtask\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|f:\\upskillingtask\\upskillingtask\\dto\\addorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|solutionrelative:upskillingtask\\dto\\addorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|f:\\upskillingtask\\upskillingtask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|solutionrelative:upskillingtask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|f:\\upskillingtask\\upskillingtask\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|solutionrelative:upskillingtask\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|f:\\upskillingtask\\upskillingtask\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|solutionrelative:upskillingtask\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|f:\\upskillingtask\\upskillingtask\\upskillingtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|solutionrelative:upskillingtask\\upskillingtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|f:\\upskillingtask\\upskillingtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|solutionrelative:upskillingtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|f:\\upskillingtask\\upskillingtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|solutionrelative:upskillingtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eng. Asmaa\\Desktop\\Demo\\Demo\\Demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eng. Asmaa\\Desktop\\Demo\\Demo\\Demo\\DBContext\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\soforx\\LatestGotGame\\aspnet-core\\src\\GotGame.Domain\\Entities\\Player\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|f:\\upskillingtask\\upskillingtask\\migrations\\20241024205117_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0FB3C-AA47-4076-9A04-6F7C058F5328}|UpskillingTask\\UpskillingTask.csproj|solutionrelative:upskillingtask\\migrations\\20241024205117_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241025141645_orderitem.cs",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\Migrations\\20241025141645_orderitem.cs",
+              "RelativeDocumentMoniker": "UpskillingTask\\Migrations\\20241025141645_orderitem.cs",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\Migrations\\20241025141645_orderitem.cs",
+              "RelativeToolTip": "UpskillingTask\\Migrations\\20241025141645_orderitem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:16:45.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "UpskillingTask\\Models\\OrderItem.cs",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\Models\\OrderItem.cs",
+              "RelativeToolTip": "UpskillingTask\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:00:28.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddOrderRequestDTO.cs",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\DTO\\AddOrderRequestDTO.cs",
+              "RelativeDocumentMoniker": "UpskillingTask\\DTO\\AddOrderRequestDTO.cs",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\DTO\\AddOrderRequestDTO.cs",
+              "RelativeToolTip": "UpskillingTask\\DTO\\AddOrderRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:57:25.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "UpskillingTask\\Controllers\\OrderController.cs",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "UpskillingTask\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wDAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T21:03:24.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241024205117_init.cs",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\Migrations\\20241024205117_init.cs",
+              "RelativeDocumentMoniker": "UpskillingTask\\Migrations\\20241024205117_init.cs",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\Migrations\\20241024205117_init.cs",
+              "RelativeToolTip": "UpskillingTask\\Migrations\\20241024205117_init.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:51:17.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\Program.cs",
+              "RelativeDocumentMoniker": "UpskillingTask\\Program.cs",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\Program.cs",
+              "RelativeToolTip": "UpskillingTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:50:26.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\appsettings.json",
+              "RelativeDocumentMoniker": "UpskillingTask\\appsettings.json",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\appsettings.json",
+              "RelativeToolTip": "UpskillingTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T20:49:26.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eng. Asmaa\\Desktop\\Demo\\Demo\\Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eng. Asmaa\\Desktop\\Demo\\Demo\\Demo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T20:49:02.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "UpskillingTask\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "UpskillingTask\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:42:20.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpskillingTask.csproj",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\UpskillingTask.csproj",
+              "RelativeDocumentMoniker": "UpskillingTask\\UpskillingTask.csproj",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\UpskillingTask.csproj",
+              "RelativeToolTip": "UpskillingTask\\UpskillingTask.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T20:30:47.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\DBContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UpskillingTask\\DBContext\\AppDbContext.cs",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\DBContext\\AppDbContext.cs",
+              "RelativeToolTip": "UpskillingTask\\DBContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:31:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eng. Asmaa\\Desktop\\Demo\\Demo\\Demo\\DBContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Eng. Asmaa\\Desktop\\Demo\\Demo\\Demo\\DBContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:29:32.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\soforx\\LatestGotGame\\aspnet-core\\src\\GotGame.Domain\\Entities\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "..\\soforx\\LatestGotGame\\aspnet-core\\src\\GotGame.Domain\\Entities\\Player\\Player.cs",
+              "ToolTip": "F:\\soforx\\LatestGotGame\\aspnet-core\\src\\GotGame.Domain\\Entities\\Player\\Player.cs",
+              "RelativeToolTip": "..\\soforx\\LatestGotGame\\aspnet-core\\src\\GotGame.Domain\\Entities\\Player\\Player.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:25:10.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "UpskillingTask\\Models\\Order.cs",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\Models\\Order.cs",
+              "RelativeToolTip": "UpskillingTask\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:20:08.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\UpskillingTask\\UpskillingTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "UpskillingTask\\Models\\Product.cs",
+              "ToolTip": "F:\\UpskillingTask\\UpskillingTask\\Models\\Product.cs",
+              "RelativeToolTip": "UpskillingTask\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:19:34.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
